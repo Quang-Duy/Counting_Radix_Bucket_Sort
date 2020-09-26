@@ -1,2 +1,0 @@
-Java installation is required
-Download Java from https://java.com/en/download/manual.jsp
